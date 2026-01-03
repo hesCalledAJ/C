@@ -1,0 +1,31 @@
+{
+  "dataVersion": 1,
+  "id": "c95a7e2a-88f9-46f9-a648-ac2fb89954cb",
+  "title": "Flower",
+  "category": "Nature",
+  "layers": {
+    "layers": [
+      {
+        "assetId": "031827000200/3f1620102f55.dat",
+        "parallaxStrength": 0
+      },
+      {
+        "assetId": "031827000200/3f1620102f54.dat",
+        "parallaxStrength": 0
+      }
+    ],
+    "clockLayerIndex": 1
+  },
+  "clock": {
+    "positionX": -0,
+    "positionY": -0.46,
+    "format": "HH:mm",
+    "fontAssetId": "2b/1e3f7e25020a5f010a161c0111334c3e0917141c0400.dat",
+    "fontSize": 93,
+    "fontColor": "#ffffff",
+    "alpha": 1
+  },
+  "date": null,
+  "previewAssetId": "031827000200/3d0b36031900050c0c0e130211.dat",
+  "createdAt": "2026-01-03 18:32:45 UTC"
+}
