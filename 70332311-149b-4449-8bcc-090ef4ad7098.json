@@ -1,7 +1,7 @@
 {
-  "dataVersion": 1,
-  "id": "c95a7e2a-88f9-46f9-a648-ac2fb89954cb",
-  "title": "Flower",
+  "dataVersion": 2,
+  "id": "70332311-149b-4449-8bcc-090ef4ad7098",
+  "title": "Tits",
   "category": "Nature",
   "layers": {
     "layers": [
@@ -17,15 +17,15 @@
     "clockLayerIndex": 1
   },
   "clock": {
-    "positionX": -0,
-    "positionY": -0.46,
+    "positionX": 0,
+    "positionY": -0.47,
     "format": "HH:mm",
     "fontAssetId": "2b/1e3f7e25020a5f010a161c0111334c3e0917141c0400.dat",
-    "fontSize": 93,
+    "fontSize": 86,
     "fontColor": "#ffffff",
     "alpha": 1
   },
   "date": null,
   "previewAssetId": "031827000200/3d0b36031900050c0c0e130211.dat",
-  "createdAt": "2026-01-03 18:32:45 UTC"
+  "createdAt": "2026-01-04 05:29:29 UTC"
 }
