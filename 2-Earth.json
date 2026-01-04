@@ -1,0 +1,31 @@
+{
+  "dataVersion": 2,
+  "id": "f315d39e-ff52-4fe1-86d2-edf50064a548",
+  "title": "Earth",
+  "category": "Space",
+  "layers": {
+    "layers": [
+      {
+        "assetId": "1e09321615_081821011823003c08300204173250.dat",
+        "parallaxStrength": 0
+      },
+      {
+        "assetId": "1e09321615_081821011823003c08300204173253.dat",
+        "parallaxStrength": 0
+      }
+    ],
+    "clockLayerIndex": 1
+  },
+  "clock": {
+    "positionX": 0,
+    "positionY": -0.29,
+    "format": "HH:mm",
+    "fontAssetId": "2b_003d7e2111091e.dat",
+    "fontSize": 219,
+    "fontColor": "#ffffff",
+    "alpha": 0.7
+  },
+  "date": null,
+  "previewAssetId": "1e09321615_3d263546415016605c0614034165550a0941.dat",
+  "createdAt": "2026-01-04 10:19:13 UTC"
+}

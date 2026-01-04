@@ -1,0 +1,39 @@
+{
+  "dataVersion": 2,
+  "id": "c0b43206-bd5a-4680-b70e-a2f13190b9a7",
+  "title": "Road1",
+  "category": "Urban",
+  "layers": {
+    "layers": [
+      {
+        "assetId": "180b31141e_1f16321141.dat",
+        "parallaxStrength": 0
+      },
+      {
+        "assetId": "180b31141e_1f16321142.dat",
+        "parallaxStrength": 0
+      }
+    ],
+    "clockLayerIndex": 1
+  },
+  "clock": {
+    "positionX": -0,
+    "positionY": -0.47,
+    "format": "HH:mm",
+    "fontAssetId": "2b_2a163e14020c113648171309187a030003130a.dat",
+    "fontSize": 125,
+    "fontColor": "#fad666",
+    "alpha": 1
+  },
+  "date": {
+    "positionX": 0,
+    "positionY": -0.655,
+    "format": "MMMM d, yyyy",
+    "fontAssetId": "2b_1e3f7e25020a5f010a161c0111334c3e0917141c0400.dat",
+    "fontSize": 17,
+    "fontColor": "#111111",
+    "alpha": 0.4
+  },
+  "previewAssetId": "180b31141e_3d26304512514161555510014136555a5440.dat",
+  "createdAt": "2026-01-04 08:02:44 UTC"
+}

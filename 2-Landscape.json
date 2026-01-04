@@ -1,0 +1,31 @@
+{
+  "dataVersion": 2,
+  "id": "cb92fc90-64da-4f3a-9733-b3d5f66d4d2b",
+  "title": "Landscape",
+  "category": "Nature",
+  "layers": {
+    "layers": [
+      {
+        "assetId": "031827000200_01183d11030613230052.dat",
+        "parallaxStrength": 0
+      },
+      {
+        "assetId": "031827000200_01183d11030613230051.dat",
+        "parallaxStrength": 0
+      }
+    ],
+    "clockLayerIndex": 1
+  },
+  "clock": {
+    "positionX": 0,
+    "positionY": 0.01,
+    "format": "HH:mm",
+    "fontAssetId": "2b_003d7e2111091e.dat",
+    "fontSize": 234,
+    "fontColor": "#575d58",
+    "alpha": 1
+  },
+  "date": null,
+  "previewAssetId": "031827000200_3d263017495714305c5344511036550a5f11.dat",
+  "createdAt": "2026-01-04 10:19:13 UTC"
+}
